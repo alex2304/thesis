@@ -1,0 +1,593 @@
+{
+  "NP_VP": {
+    "S": 24485
+  },
+  "VP": {
+    "S": 13147
+  },
+  "NP_VP_DOT": {
+    "S": 4014
+  },
+  "NP_ADVP_VP": {
+    "S": 1046
+  },
+  "CC_NP_VP": {
+    "S": 940
+  },
+  "NP_NP": {
+    "S": 754
+  },
+  "NP_ADJP": {
+    "S": 698
+  },
+  "PP_COMMA_NP_VP": {
+    "S": 383
+  },
+  "PP_NP_VP": {
+    "S": 366
+  },
+  "ADVP_VP": {
+    "S": 360
+  },
+  "ADJP": {
+    "S": 344
+  },
+  "VP_DOT": {
+    "S": 336
+  },
+  "ADVP_NP_VP": {
+    "S": 316
+  },
+  "NP": {
+    "S": 310
+  },
+  "CC_NP_VP_DOT": {
+    "S": 246
+  },
+  "NP_ADVP_VP_DOT": {
+    "S": 225
+  },
+  "NP_NP_VP_DOT": {
+    "S": 174
+  },
+  "PP_COMMA_NP_VP_DOT": {
+    "S": 158
+  },
+  "NP_NP_VP": {
+    "S": 155
+  },
+  "ADVP_COMMA_NP_VP": {
+    "S": 140
+  },
+  "RB_VP": {
+    "S": 137
+  },
+  "NP_COMMA_VP": {
+    "S": 108
+  },
+  "NP_COMMA_NP_VP_DOT": {
+    "S": 106
+  },
+  "PP_NP_VP_DOT": {
+    "S": 86
+  },
+  "NP_COMMA_NP_VP": {
+    "S": 83
+  },
+  "CC_ADVP_NP_VP": {
+    "S": 77
+  },
+  "NP_COMMA_PP_COMMA_VP": {
+    "S": 75
+  },
+  "NP_ADVP": {
+    "S": 69
+  },
+  "NP_COMMA_VP_DOT": {
+    "S": 61
+  },
+  "NP_PP": {
+    "S": 59
+  },
+  "NP_VP_COMMA": {
+    "S": 52
+  },
+  "ADVP_NP_VP_DOT": {
+    "S": 46
+  },
+  "COMMA_PP_COMMA_VP": {
+    "S": 42
+  },
+  "NP_RB_VP": {
+    "S": 39
+  },
+  "COMMA_PP_COMMA_NP_VP": {
+    "S": 39
+  },
+  "PP_VP": {
+    "S": 38
+  },
+  "CC_NP_ADVP_VP": {
+    "S": 35
+  },
+  "ADJP_NP": {
+    "S": 35
+  },
+  "NP_COLON_VP": {
+    "S": 34
+  },
+  "NP_COMMA_ADVP_COMMA_VP_DOT": {
+    "S": 33
+  },
+  "NP_COMMA_ADVP_COMMA_VP": {
+    "S": 31
+  },
+  "ADVP_COMMA_NP_VP_DOT": {
+    "S": 29
+  },
+  "CC_ADVP_NP_VP_DOT": {
+    "S": 23
+  },
+  "VP_NP": {
+    "S": 23
+  },
+  "CC_PP_COMMA_NP_VP": {
+    "S": 23
+  },
+  "PP_COMMA_VP": {
+    "S": 23
+  },
+  "CC_PP_COMMA_NP_VP_DOT": {
+    "S": 22
+  },
+  "NP_VP_COLON": {
+    "S": 22
+  },
+  "NP_COMMA_PP_COMMA_NP_VP": {
+    "S": 20
+  },
+  "PP_COMMA_NP_ADVP_VP": {
+    "S": 20
+  },
+  "NP_RB_NP_VP_DOT": {
+    "S": 19
+  },
+  "ADVP_NP": {
+    "S": 18
+  },
+  "NP_COMMA_NP": {
+    "S": 16
+  },
+  "VP_COLON": {
+    "S": 16
+  },
+  "NP_COMMA_PP_COMMA_VP_DOT": {
+    "S": 16
+  },
+  "CC_ADVP_COMMA_NP_VP": {
+    "S": 15
+  },
+  "PP_COMMA_ADVP_COMMA_NP_VP_DOT": {
+    "S": 14
+  },
+  "NP_ADVP_NP": {
+    "S": 14
+  },
+  "ADVP_COMMA_PP_COMMA_NP_VP": {
+    "S": 14
+  },
+  "NP_ADVP_COMMA_NP_VP": {
+    "S": 14
+  },
+  "RB_NP_VP": {
+    "S": 14
+  },
+  "CC_VP_DOT": {
+    "S": 14
+  },
+  "NP_COMMA_ADVP_COMMA_NP_VP_DOT": {
+    "S": 13
+  },
+  "CC_COMMA_PP_COMMA_NP_VP": {
+    "S": 13
+  },
+  "NP_ADJP_ADVP": {
+    "S": 12
+  },
+  "NP_COMMA_ADVP_COMMA_NP_VP": {
+    "S": 12
+  },
+  "ADVP_COMMA_ADVP_COMMA_NP_VP": {
+    "S": 12
+  },
+  "ADVP_VP_NP": {
+    "S": 12
+  },
+  "CC_NP_ADVP_VP_DOT": {
+    "S": 11
+  },
+  "ADVP_ADVP_NP_VP": {
+    "S": 11
+  },
+  "ADVP_COMMA_ADVP_COMMA_NP_VP_DOT": {
+    "S": 10
+  },
+  "NP_COLON_NP_VP": {
+    "S": 9
+  },
+  "NP_ADVP_VP_COMMA": {
+    "S": 9
+  },
+  "PP": {
+    "S": 9
+  },
+  "IN_NP_VP": {
+    "S": 9
+  },
+  "CC_VP": {
+    "S": 9
+  },
+  "RB_NP_VP_DOT": {
+    "S": 9
+  },
+  "NP_COMMA_PP_COMMA_NP_VP_DOT": {
+    "S": 9
+  },
+  "CC_ADVP_COMMA_NP_VP_DOT": {
+    "S": 8
+  },
+  "NP_COMMA_NP_NP_VP": {
+    "S": 8
+  },
+  "NP_DT_VP": {
+    "S": 8
+  },
+  "RB_ADJP": {
+    "S": 8
+  },
+  "CC_PP_NP_VP_DOT": {
+    "S": 8
+  },
+  "COLON_NP_VP_DOT": {
+    "S": 8
+  },
+  "NP_PP_VP": {
+    "S": 8
+  },
+  "NP_PP_VP_DOT": {
+    "S": 8
+  },
+  "NP_PP_NP_VP_DOT": {
+    "S": 7
+  },
+  "PP_COMMA_NP_VP_COLON": {
+    "S": 7
+  },
+  "MD_NP_VP": {
+    "S": 7
+  },
+  "NP_COMMA_ADVP_VP": {
+    "S": 7
+  },
+  "PP_COMMA_PP_COMMA_NP_VP_DOT": {
+    "S": 7
+  },
+  "ADVP_ADJP": {
+    "S": 7
+  },
+  "NP_COMMA_ADVP_NP_VP_DOT": {
+    "S": 6
+  },
+  "CC_COMMA_PP_COMMA_VP": {
+    "S": 6
+  },
+  "PP_COMMA_ADVP_COMMA_NP_VP": {
+    "S": 6
+  },
+  "NP_ADVP_ADJP": {
+    "S": 6
+  },
+  "NP_ADJP_DOT": {
+    "S": 6
+  },
+  "VP_COMMA": {
+    "S": 6
+  },
+  "CC_COMMA_PP_COMMA_NP_VP_DOT": {
+    "S": 6
+  },
+  "PP_NP_ADVP_VP": {
+    "S": 6
+  },
+  "NP_PP_DOT": {
+    "S": 6
+  },
+  "NP_ADVP_NP_VP": {
+    "S": 6
+  },
+  "IN_NP_VP_DOT": {
+    "S": 6
+  },
+  "NP_COLON_ADVP_NP_VP": {
+    "S": 6
+  },
+  "NP_ADVP_ADVP_VP": {
+    "S": 6
+  },
+  "ADVP_COMMA_VP": {
+    "S": 6
+  },
+  "NP_VP_COMMA_CC_VP_DOT": {
+    "S": 6
+  },
+  "ADVP_ADVP_COMMA_NP_VP": {
+    "S": 6
+  },
+  "NP_COMMA_PP_NP_VP": {
+    "S": 5
+  },
+  "CC_ADVP_COMMA_PP_COMMA_NP_VP": {
+    "S": 5
+  },
+  "NP_COMMA_CC_NP_VP": {
+    "S": 5
+  },
+  "NP_COMMA_ADVP_VP_DOT": {
+    "S": 5
+  },
+  "NP_COMMA_NP_COMMA_NP_VP": {
+    "S": 5
+  },
+  "NP_ADJP_PP": {
+    "S": 5
+  },
+  "NP_COMMA_ADVP_NP_VP": {
+    "S": 5
+  },
+  "ADVP": {
+    "S": 5
+  },
+  "PP_COMMA_NP_ADVP_VP_DOT": {
+    "S": 5
+  },
+  "PP_COLON_NP_VP_DOT": {
+    "S": 4
+  },
+  "ADJP_NP_VP_DOT": {
+    "S": 4
+  },
+  "COLON_CC_NP_VP_DOT": {
+    "S": 4
+  },
+  "COMMA_ADVP_COMMA_NP_VP": {
+    "S": 4
+  },
+  "PP_COMMA_VP_COMMA": {
+    "S": 4
+  },
+  "CC_COMMA_ADVP_COMMA_NP_VP_DOT": {
+    "S": 4
+  },
+  "CC_NP_VP_COMMA": {
+    "S": 4
+  },
+  "CC_PP_COMMA_NP_ADVP_VP_DOT": {
+    "S": 4
+  },
+  "NP_DT_VP_DOT": {
+    "S": 4
+  },
+  "CC_NP_NP_VP_DOT": {
+    "S": 4
+  },
+  "COMMA_PP_COMMA_NP_ADVP_VP": {
+    "S": 4
+  },
+  "NP_COMMA_NP_ADVP_VP": {
+    "S": 4
+  },
+  "VBD_NP_VP": {
+    "S": 4
+  },
+  "PP_COMMA_PP_COMMA_VP": {
+    "S": 4
+  },
+  "VP_COMMA_NP_DOT": {
+    "S": 3
+  },
+  "NP_ADVP_VP_COLON": {
+    "S": 3
+  },
+  "NP_VP_COMMA_ADVP": {
+    "S": 3
+  },
+  "CC_NP_COMMA_NP_VP": {
+    "S": 3
+  },
+  "ADVP_COMMA_ADVP_COMMA_VP": {
+    "S": 3
+  },
+  "NP_COMMA_NP_ADVP_VP_DOT": {
+    "S": 3
+  },
+  "ADVP_ADVP_COMMA_NP_COMMA_NP_VP_DOT": {
+    "S": 3
+  },
+  "PP_COMMA_NP": {
+    "S": 3
+  },
+  "CC_NP_COMMA_VP_DOT": {
+    "S": 3
+  },
+  "NP_COLON_VP_DOT": {
+    "S": 3
+  },
+  "NP_ADJP_NP_PP": {
+    "S": 3
+  },
+  "CC_ADVP_COMMA_NP_COMMA_NP_VP_DOT": {
+    "S": 3
+  },
+  "PP_ADVP_COMMA_NP_VP": {
+    "S": 3
+  },
+  "CC_RB_VP_DOT": {
+    "S": 3
+  },
+  "NP_COLON_ADVP_VP_DOT": {
+    "S": 3
+  },
+  "COMMA_PP_NP_VP": {
+    "S": 3
+  },
+  "ADJP_PP": {
+    "S": 3
+  },
+  "ADVP_COMMA_PP_COMMA_NP_VP_DOT": {
+    "S": 3
+  },
+  "ADVP_ADVP_COMMA_NP_VP_DOT": {
+    "S": 3
+  },
+  "ADVP_VP_NP_DOT": {
+    "S": 3
+  },
+  "CC_PP_COMMA_VP": {
+    "S": 3
+  },
+  "NP_COMMA_PP_NP_VP_DOT": {
+    "S": 3
+  },
+  "CC_COMMA_NP_VP": {
+    "S": 3
+  },
+  "NP_ADVP_ADVP_NP_VP_DOT": {
+    "S": 3
+  },
+  "PP_COMMA_NP_COMMA_VP_DOT": {
+    "S": 3
+  },
+  "NP_VP_NP_DOT": {
+    "S": 2
+  },
+  "ADVP_COMMA_PP": {
+    "S": 2
+  },
+  "RB_VP_DOT": {
+    "S": 2
+  },
+  "ADVP_ADVP_COMMA_ADVP_COMMA_NP_VP_DOT": {
+    "S": 2
+  },
+  "NP_VP_VP": {
+    "S": 2
+  },
+  "ADVP_COMMA_NP_ADVP_VP": {
+    "S": 2
+  },
+  "NP_NP_COMMA_NP_VP": {
+    "S": 2
+  },
+  "ADVP_COMMA_PP_COMMA_VP": {
+    "S": 2
+  },
+  "ADVP_COMMA_NP_ADVP_VP_DOT": {
+    "S": 2
+  },
+  "NP_COLON_NP_VP_DOT": {
+    "S": 2
+  },
+  "NP_COMMA_PP_VP": {
+    "S": 2
+  },
+  "ADVP_COMMA_NP_COLON_VP": {
+    "S": 2
+  },
+  "NP_COMMA_VP_COMMA": {
+    "S": 2
+  },
+  "ADVP_NP_ADVP_VP": {
+    "S": 2
+  },
+  "NP_COMMA_ADVP_COMMA_PP_COMMA_VP_DOT": {
+    "S": 2
+  },
+  "CC_PP_NP_VP": {
+    "S": 2
+  },
+  "PP_COMMA_NP_VP_COMMA": {
+    "S": 2
+  },
+  "NP_ADVP_VP_COMMA_CC_VP_DOT": {
+    "S": 2
+  },
+  "NP_MD_RB_VP": {
+    "S": 2
+  },
+  "PP_COMMA_ADVP_NP_VP_DOT": {
+    "S": 2
+  },
+  "VP_PP": {
+    "S": 2
+  },
+  "NP_COLON_NP": {
+    "S": 2
+  },
+  "NP_ADVP_COMMA_VP": {
+    "S": 2
+  },
+  "DT_VP": {
+    "S": 2
+  },
+  "CC_NP_COMMA_NP_VP_DOT": {
+    "S": 2
+  },
+  "ADVP_PP_COMMA_NP_VP": {
+    "S": 2
+  },
+  "PP_COMMA_ADVP_VP": {
+    "S": 2
+  },
+  "NP_NP_PP": {
+    "S": 2
+  },
+  "NP_COLON_PP_NP_VP": {
+    "S": 2
+  },
+  "PP_NP": {
+    "S": 2
+  },
+  "CC_PP_COMMA_PP_COMMA_VP": {
+    "S": 2
+  },
+  "PP_NP_NP_VP": {
+    "S": 2
+  },
+  "CC_NP_NP_VP": {
+    "S": 2
+  },
+  "ADVP_PP_NP_VP": {
+    "S": 2
+  },
+  "CC_ADVP_COMMA_PP_VP_DOT": {
+    "S": 2
+  },
+  "NP_VP_PP": {
+    "S": 2
+  },
+  "NP_VP_COMMA_PP_DOT": {
+    "S": 2
+  },
+  "CC_PP_COMMA_VP_DOT": {
+    "S": 2
+  },
+  "NP_ADVP_PP": {
+    "S": 2
+  },
+  "NP_ADJP_PP_PP": {
+    "S": 2
+  },
+  "VP_COMMA_CC_VP": {
+    "S": 2
+  }
+}
