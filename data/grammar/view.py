@@ -1,10 +1,9 @@
 import json
-from collections import defaultdict, OrderedDict
+from collections import defaultdict
 from operator import itemgetter
-from pprint import pprint
 
 
-def parse_phrases(path):
+def view_phrases_file(path):
     with open(path) as f:
         d = json.load(f)
 
@@ -24,9 +23,7 @@ def parse_phrases(path):
 
         print()
 
-    # pprint(prods_rules)
-
 
 if __name__ == '__main__':
-    # parse_phrases('terminal_rules.json')
-    parse_phrases('terminal_rules_sents.json')
+    view_phrases_file('terminal_rules.json')
+    view_phrases_file('terminal_rules_sents.json')

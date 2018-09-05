@@ -1,7 +1,5 @@
 .ipynb_checkpoints/*
 .idea
 **/__pycache__
-data/*
-!data/grammar/*
-trained/*
-trained_large/*
+data/cache/*
+!data/cache/.gitkeep
